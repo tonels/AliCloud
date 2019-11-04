@@ -9,6 +9,7 @@
         <module>firstAMS</module>
         <module>rocketMQ</module>
         <module>apacheRMQ</module>
+        <module>openFeign</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -19,7 +20,7 @@
     <groupId>com.example</groupId>
     <artifactId>aliCloud</artifactId>
     <version>1.0.0</version>
-    <name>bootiful</name>
+    <name>aliCloud</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
