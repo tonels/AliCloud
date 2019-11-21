@@ -11,6 +11,9 @@
 
     <artifactId>apacheRMQ</artifactId>
 
+    <!--这里pom打包是因为，打包不成功，其实是比必要的-->
+   <packaging>pom</packaging>
+
 
     <dependencies>
         <dependency>
