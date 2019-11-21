@@ -9,6 +9,7 @@
         <module>firstAMS</module>
         <module>rocketMQ</module>
         <module>apacheRMQ</module>
+        <module>openFeign</module>
         <module>oss1</module>
     </modules>
     <parent>
